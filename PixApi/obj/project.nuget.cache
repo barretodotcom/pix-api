@@ -1,0 +1,20 @@
+{
+  "version": 2,
+  "dgSpecHash": "L/5kxYfhCVE=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\lucas.xavier\\Projects\\PixApi\\PixApi\\PixApi.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\lucas.xavier\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
+    "C:\\Users\\lucas.xavier\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\lucas.xavier\\.nuget\\packages\\microsoft.win32.systemevents\\6.0.0\\microsoft.win32.systemevents.6.0.0.nupkg.sha512",
+    "C:\\Users\\lucas.xavier\\.nuget\\packages\\net.codecrete.qrcodegenerator\\2.0.6\\net.codecrete.qrcodegenerator.2.0.6.nupkg.sha512",
+    "C:\\Users\\lucas.xavier\\.nuget\\packages\\nullfx.crc\\1.1.10\\nullfx.crc.1.1.10.nupkg.sha512",
+    "C:\\Users\\lucas.xavier\\.nuget\\packages\\qrcoder\\1.6.0\\qrcoder.1.6.0.nupkg.sha512",
+    "C:\\Users\\lucas.xavier\\.nuget\\packages\\swashbuckle.aspnetcore\\6.5.0\\swashbuckle.aspnetcore.6.5.0.nupkg.sha512",
+    "C:\\Users\\lucas.xavier\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.5.0\\swashbuckle.aspnetcore.swagger.6.5.0.nupkg.sha512",
+    "C:\\Users\\lucas.xavier\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.5.0\\swashbuckle.aspnetcore.swaggergen.6.5.0.nupkg.sha512",
+    "C:\\Users\\lucas.xavier\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.5.0\\swashbuckle.aspnetcore.swaggerui.6.5.0.nupkg.sha512",
+    "C:\\Users\\lucas.xavier\\.nuget\\packages\\system.drawing.common\\6.0.0\\system.drawing.common.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
