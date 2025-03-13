@@ -10,7 +10,7 @@ builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddSwaggerGen();
 
 builder.Services.AddScoped<IPixService, PixService>();
-builder.Services.AddControllers();
+builder.Services.AddControllers()
 
 var app = builder.Build();
 
