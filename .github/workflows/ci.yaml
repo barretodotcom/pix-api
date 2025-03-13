@@ -1,0 +1,29 @@
+on: 
+  push:
+    branches: [ main ]
+  pull_request:
+    branches: [ main ]
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Checkout repository
+      uses: actions/checkout@v2
+  
+    - name: Setup environment
+      uses: actions/setup-dotnet@v3.3.1
+  
+    - name: .NET Clean
+      run: dotnet clean
+  
+    - name: Build project
+      run: dotnet build
+
+    env:
+      user_name: 'github-actions[bot]'
+      user_email: 'github-actions[bot]@users.noreply.github.com'
+  
+        
+      
